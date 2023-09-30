@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&family=Roboto:wght@100;300;500;700&display=swap');
+
+.container__menu-title {
+  color: white
+}
+
+.container__menu-title > h1 {
+  margin-top: 15px;
+  margin-botton: 15px;
+  font-size: 135px;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container__menu-title > hr {
+  margin-top: 20px;
+  margin-botton: 20px;
+}
